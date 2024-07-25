@@ -1,4 +1,7 @@
 # Music_Store_Data_Analysis
+## Schema Diagram for Music Store Data
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/ef82a8c2-6269-4c01-b69f-f1aae7a0d67a">
+
 
 #### Q1: Who is the senior most employee based on job title?
 #### Q2: Which countries have the most Invoices?
